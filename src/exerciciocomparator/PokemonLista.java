@@ -1,6 +1,5 @@
 package exerciciocomparator;
 //construindo uma lista de pokemons
-import comparators.Estudante;
 
 import java.util.ArrayList;
 import java.util.Collections;
